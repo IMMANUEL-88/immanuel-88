@@ -52,7 +52,7 @@ An **e-commerce app** with both **user** and **admin** sides.
 
 ## 📫 Contact Me
 
-- 🌐 [LinkedIn](www.linkedin.com/in/immanuel-antony-jeyam)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/immanuel-antony-jeyam)  
 - ✉️ [immanueljeyam@gmail.com](mailto:immanueljeyam@gmail.com) 
 - 💼 Open to freelance and collaboration opportunities!
 
