@@ -105,10 +105,11 @@ A full-fledged **e-commerce mobile app** with separate **user** and **admin** in
 
 <div align="left">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
 </div>
 
@@ -120,7 +121,6 @@ A full-fledged **e-commerce mobile app** with separate **user** and **admin** in
 - **Linux (Ubuntu)** commands and system navigation for improved development workflow
 - **Ansible** for automation processes in remote servers
 - **Kubernetes** for cluster orchestration
-- Strengthening **problem-solving skills** using C and data structures  
 - **Version control** best practices with Git & GitHub    
 
 ---
