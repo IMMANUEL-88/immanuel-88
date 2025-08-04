@@ -99,7 +99,7 @@ A mobile-first agri-tech application that helps farmers and agronomists **optimi
 
 ### 🛒 E I O  
 A full-fledged **e-commerce mobile app** with separate **user** and **admin** interfaces. Users can **browse products**, **manage carts**, and **track orders**, while admins can manage inventory, analytics, and pricing.  
-📱 *Live on Play Store → [E I O on Play Store](https://play.google.com/store/apps/details?id=com.example.eio)*
+📱 *Live on Play Store → [E I O on Play Store(India Only)](https://play.google.com/store/apps/details?id=com.example.eio)*
 
 **Tech Stack:**
 
