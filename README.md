@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Immanuel Jeyam
 
-I'm a passionate **Flutter developer** and **full-stack enthusiast** with experience in building mobile applications using **Flutter**, **Node.js**, and **MongoDB**. I love transforming ideas into real-world digital products with smooth UI and efficient backends.
+I’m a passionate **Flutter developer** and **full-stack enthusiast**, building apps with **Flutter, Node.js**, and **MongoDB**. Skilled in **Git/GitHub**, **Figma**, and working in **Linux environments**, with familiarity in **DevOps** practices like **shell scripting** and **Ansible**. I love turning ideas into real-world digital products and collaborating on **scalable, efficient applications**.
 
 <div align="center">
 
