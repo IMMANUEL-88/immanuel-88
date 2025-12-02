@@ -13,7 +13,7 @@ I’ve developed apps like *AttendZone* and *FertiOptimizer*, but my favorite pr
 If you want to collaborate or discuss, feel free to reach out!
 
 ### Fun Facts:
-* 🏎️ Huge **Formula 1** fan (Cheering for Red Bull Racing)
+* 🏎️ Huge **Formula 1** fan (Always cheering for Max Verstappen)
 * 🐧 I love customizing my **Ubuntu desktop**
 * 🤖 Currently obsessed with building MCP Server and AI Agents using **FastMCP** and **Gemini**
 * ⚡ **Hobbies:** Gym, Coding, F1, Reading Books
